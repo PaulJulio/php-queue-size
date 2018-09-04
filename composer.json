@@ -12,6 +12,6 @@
 		"league/climate": "^3.2"
 	},
 	"autoload": {
-      "psr-4": { "Sample\\": "src/" }
+      "psr-4": { "QueueSize\\": "src/" }
     }
 }
